@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SubsSupport\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-15 20:40+0100\n"
+"PO-Revision-Date: 2014-02-15 20:40+0100\n"
+"Last-Translator: mx3L <mxfitsat@gmail.com>\n"
+"Language-Team: none <hosunio@tlen.pl>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: settings.py:32 settings.py:74 subtitles/subtitles.py:1545
+#: subtitles/subtitles.py:2390 subtitles/subtitles.py:2523
+msgid "Cancel"
+msgstr "Cencel"
+
+#: settings.py:33
+msgid "Use"
+msgstr ""
+
+#: settings.py:48
+msgid "Directory browser"
+msgstr ""
+
+#: settings.py:71 plugin.py:823
+msgid "Edit settings"
+msgstr "Edycja ustawień"
+
+#: settings.py:75 subtitles/subtitles.py:1544 subtitles/subtitles.py:2389
+#: subtitles/subtitles.py:2522
+msgid "Save"
+msgstr "Zapisz"
+
+#: settings.py:97
+msgid "repeat playlist"
+msgstr "Powtórz playlistę"
+
+#: settings.py:98
+msgid "save playlist on exit"
+msgstr "Zapisz playlistę przed wyjściem"
+
+#: settings.py:99
+msgid "save last directory on exit"
+msgstr "Zapisać ostatni katalog przed wyjściem"
+
+#: settings.py:101
+msgid "start directory"
+msgstr "Katalog startowy"
+
+#: settings.py:102
+#, fuzzy
+msgid "sorting of playlists"
+msgstr "Przejdź do listy odtwarzania"
+
+#: settings.py:103
+msgid "show in extensions menu"
+msgstr "Pokaż w rozrzeżonym menu"
+
+#: settings.py:104
+msgid "replace default MediaPlayer in main menu"
+msgstr "Zaminić na domyślny odtwarzacz MediaPlayer"
+
+#: plugin.py:106 plugin.py:114
+msgid "Letterbox"
+msgstr ""
+
+#: plugin.py:107 plugin.py:111 plugin.py:115
+msgid "Pan&scan"
+msgstr ""
+
+#: plugin.py:108 plugin.py:112
+msgid "Nonlinear"
+msgstr ""
+
+#: plugin.py:109 plugin.py:113 plugin.py:116
+msgid "Just scale"
+msgstr ""
+
+#: plugin.py:110
+msgid "PillarBox"
+msgstr ""
+
+#: plugin.py:151
+msgid "Aspect"
+msgstr ""
+
+#: plugin.py:151
+msgid "Policy"
+msgstr ""
+
+#: plugin.py:301
+msgid "Artist"
+msgstr "Wykonawca"
+
+#: plugin.py:303
+msgid "Title"
+msgstr "Tytuł"
+
+#: plugin.py:305
+msgid "Album"
+msgstr "Album"
+
+#: plugin.py:307
+msgid "Year"
+msgstr "Rok:"
+
+#: plugin.py:309
+msgid "Genre"
+msgstr "Gatunek:"
+
+#: plugin.py:333
+#, fuzzy
+msgid "Add file to playlist"
+msgstr "Dodaj do playlisty"
+
+#: plugin.py:334
+#, fuzzy
+msgid "Exit mediaplayer"
+msgstr "Wyjście z programu"
+
+#: plugin.py:339
+#, fuzzy
+msgid "show info"
+msgstr "Info"
+
+#: plugin.py:340
+#, fuzzy
+msgid "Play entry"
+msgstr "Odtwarzaj zapis"
+
+#: plugin.py:341
+#, fuzzy
+msgid "Pause"
+msgstr "Pauza"
+
+#: plugin.py:342
+#, fuzzy
+msgid "Stop entry"
+msgstr "Zatrzymaj zapis"
+
+#: plugin.py:343
+#, fuzzy
+msgid "Play from previous mark or playlist entry"
+msgstr "Odtwarzaj z poprzedniej playlisty"
+
+#: plugin.py:344
+#, fuzzy
+msgid "Play from next mark or playlist entry"
+msgstr "Odtwarzaj z następnej playlisty"
+
+#: plugin.py:345
+msgid "Menu"
+msgstr ""
+
+#: plugin.py:346
+msgid "Jump to beginning of list"
+msgstr ""
+
+#: plugin.py:347
+#, fuzzy
+msgid "Jump to end of list"
+msgstr "Idz na koniec listy"
+
+#: plugin.py:348 plugin.py:809
+#, fuzzy
+msgid "Switch to playlist"
+msgstr "Przejdź do listy odtwarzania"
+
+#: plugin.py:349 plugin.py:813
+#, fuzzy
+msgid "Switch to filelist"
+msgstr "Przejdź do listy plików"
+
+#: plugin.py:350
+#, fuzzy
+msgid "Delete playlist entry"
+msgstr "Usuń listę odtwarzania"
+
+#: plugin.py:351 plugin.py:814
+#, fuzzy
+msgid "Clear playlist"
+msgstr "Wyczyść playliste"
+
+#: plugin.py:352 plugin.py:817
+#, fuzzy
+msgid "Shuffle playlist"
+msgstr "Losowe wybieranie"
+
+#: plugin.py:353
+#, fuzzy
+msgid "Refresh subtitles"
+msgstr "Pokaż napisy"
+
+#: plugin.py:359
+msgid "show event details"
+msgstr "Pokaż więcie szczegółów"
+
+#: plugin.py:437 plugin.py:444 plugin.py:456
+#, fuzzy
+msgid "No external subtitles loaded"
+msgstr "Pokaż menu napisów"
+
+#: plugin.py:440
+msgid "Refreshing subtitles..."
+msgstr ""
+
+#: plugin.py:482
+#, fuzzy
+msgid "Exit media player?"
+msgstr "Wyjście z programu"
+
+#: plugin.py:531 plugin.py:537
+#, fuzzy, python-format
+msgid "This receiver cannot decode %s streams!"
+msgstr "Ten tuner nie ma takich kodeków %s"
+
+#: plugin.py:803 plugin.py:1377
+#, fuzzy
+msgid "Play audio-CD..."
+msgstr "Play Audio-CD..."
+
+#: plugin.py:806
+#, fuzzy
+msgid "Add directory to playlist"
+msgstr "Dodaj katalog do playlisty"
+
+#: plugin.py:808
+#, fuzzy
+msgid "Add files to playlist"
+msgstr "Dodaj pliki do playlisty"
+
+#: plugin.py:811
+#, fuzzy
+msgid "Delete file"
+msgstr "Usuń plik"
+
+#: plugin.py:815
+msgid "Delete entry"
+msgstr "Usuń wpis"
+
+#: plugin.py:818
+#, fuzzy
+msgid "Hide player"
+msgstr "Ukryj odtwarzacz"
+
+#: plugin.py:819
+#, fuzzy
+msgid "Load playlist"
+msgstr "Załaduj playliste"
+
+#: plugin.py:821 plugin.py:919
+#, fuzzy
+msgid "Save playlist"
+msgstr "Zapisz playliste"
+
+#: plugin.py:822
+#, fuzzy
+msgid "Delete saved playlist"
+msgstr "Skasuj zapisaną playliste"
+
+#: plugin.py:919
+msgid "Please enter filename (empty = use current date)"
+msgstr "Wprowadź nazwę pliku"
+
+#: plugin.py:943
+msgid "Please select a playlist..."
+msgstr "Proszę wybrać playliste"
+
+#: plugin.py:967
+msgid "Please select a playlist to delete..."
+msgstr "Proszę wybrać playliste do skasowania"
+
+#: plugin.py:972 plugin.py:1025
+#, python-format
+msgid "Do you really want to delete %s?"
+msgstr "Czy napewno chcesz usunąć %s?"
+
+#: plugin.py:980 plugin.py:1039
+msgid "Delete failed!"
+msgstr "Błąd usuwania!"
+
+#: plugin.py:1027
+msgid "You cannot delete this!"
+msgstr "Nie możesz tego skasować!"
+
+#: plugin.py:1294
+msgid "Media player"
+msgstr "Media player"
+
+#: plugin.py:1349
+#, fuzzy
+msgid "Watch movies..."
+msgstr "Pokarz filmy..."
+
+#: plugin.py:1359
+#, fuzzy
+msgid "View video CD..."
+msgstr "Pokarz Video CD..."
+
+#: plugin.py:1368
+#, fuzzy
+msgid "Play music..."
+msgstr "Włącz Muzykę..."
+
+#: plugin.py:1386
+msgid "Play back media files with subtitles"
+msgstr "Odtwarzacz plików z napisami"
+
+#: subtitles/e2_utils.py:51
+#, fuzzy
+msgid "Language selection"
+msgstr "Wybór napisów"
+
+#: subtitles/e2_utils.py:111
+msgid "Type text of picture"
+msgstr ""
+
+#: subtitles/e2_utils.py:411
+msgid "unpack error: cannot get subname"
+msgstr ""
+
+#: subtitles/e2_utils.py:427
+msgid "unpack error: cannot open archive"
+msgstr ""
+
+#: subtitles/subtitles.py:102 subtitles/subtitles.py:223
+msgid "Central and Eastern Europe"
+msgstr "Centralna i Wschodnia Europa"
+
+#: subtitles/subtitles.py:103
+msgid "Western Europe"
+msgstr "Zachodnia Europa"
+
+#: subtitles/subtitles.py:104
+msgid "Russia"
+msgstr "Rosja"
+
+#: subtitles/subtitles.py:105
+msgid "Arabic"
+msgstr ""
+
+#: subtitles/subtitles.py:106
+msgid "Turkish"
+msgstr ""
+
+#: subtitles/subtitles.py:107
+msgid "Greek"
+msgstr ""
+
+#: subtitles/subtitles.py:246
+msgid "red"
+msgstr "Czerwony"
+
+#: subtitles/subtitles.py:247
+msgid "grey"
+msgstr "Szary"
+
+#: subtitles/subtitles.py:248
+msgid "green"
+msgstr "Zielony"
+
+#: subtitles/subtitles.py:249
+msgid "purple"
+msgstr "Purpurowy"
+
+#: subtitles/subtitles.py:250
+msgid "yellow"
+msgstr "Żółty"
+
+#: subtitles/subtitles.py:251
+msgid "white"
+msgstr "Biały"
+
+#: subtitles/subtitles.py:252
+msgid "blue"
+msgstr "Niebieski"
+
+#: subtitles/subtitles.py:253
+msgid "black"
+msgstr ""
+
+#: subtitles/subtitles.py:272
+msgid "offset"
+msgstr ""
+
+#: subtitles/subtitles.py:272
+msgid "border"
+msgstr ""
+
+#: subtitles/subtitles.py:286
+msgid "Block"
+msgstr ""
+
+#: subtitles/subtitles.py:286
+msgid "Row (experimental)"
+msgstr ""
+
+#: subtitles/subtitles.py:441
+msgid "show subtitles menu"
+msgstr "Pokaż menu napisów"
+
+#: subtitles/subtitles.py:700
+#, fuzzy
+msgid "Cannot load subtitles. Invalid path"
+msgstr "Nie można wykonać napisów"
+
+#: subtitles/subtitles.py:704
+msgid "Cannot decode subtitles. Try another encoding group"
+msgstr "Nie można odtworzyć napisów, proszę wybrać inne"
+
+#: subtitles/subtitles.py:708
+msgid "Cannot parse subtitles. Not supported subtitles format"
+msgstr ""
+
+#: subtitles/subtitles.py:712
+#, fuzzy
+msgid "Cannot parse subtitles. Invalid subtitles format"
+msgstr "Nie można wykonać napisów"
+
+#: subtitles/subtitles.py:1422
+msgid "Currently choosed subtitles"
+msgstr "Obecnie wybrane napisy"
+
+#: subtitles/subtitles.py:1440
+#, fuzzy
+msgid "Subtitles Menu"
+msgstr "Napisy"
+
+#: subtitles/subtitles.py:1449
+#, fuzzy
+msgid "Embedded Subtitles"
+msgstr "Napisy"
+
+#: subtitles/subtitles.py:1460 subtitles/subtitles.py:1463
+#, fuzzy
+msgid "Encoding:"
+msgstr "Kodowanie"
+
+#: subtitles/subtitles.py:1463
+msgid "cannot decode"
+msgstr "Brak kodeka"
+
+#: subtitles/subtitles.py:1465
+msgid "None"
+msgstr "Żadne"
+
+#: subtitles/subtitles.py:1470 subtitles/subtitles.py:1840
+msgid "Choose subtitles"
+msgstr "Wybież napisy"
+
+#: subtitles/subtitles.py:1473
+msgid "Change encoding"
+msgstr "Zmiana kodowania"
+
+#: subtitles/subtitles.py:1474
+msgid "Subtitles settings"
+msgstr "Ustawienia napisów"
+
+#: subtitles/subtitles.py:1476
+#, fuzzy
+msgid "Subtitles settings (embedded)"
+msgstr "Ustawienia napisów"
+
+#: subtitles/subtitles.py:1478
+#, fuzzy
+msgid "Turn off subtitles"
+msgstr "Pokaż napisy"
+
+#: subtitles/subtitles.py:1534
+msgid "Subtitles setting"
+msgstr "Ustaw napisy"
+
+#: subtitles/subtitles.py:1546 subtitles/subtitles.py:2391
+#: subtitles/subtitles.py:2524
+msgid "Reset Defaults"
+msgstr ""
+
+#: subtitles/subtitles.py:1553
+#, fuzzy
+msgid "External subtitles setting"
+msgstr "Ustaw napisy"
+
+#: subtitles/subtitles.py:1560
+msgid "Parsing/Rendering"
+msgstr ""
+
+#: subtitles/subtitles.py:1561
+msgid "Font type"
+msgstr "Typ czcionki"
+
+#: subtitles/subtitles.py:1562
+msgid "Font size"
+msgstr "Wielkość czcionki"
+
+#: subtitles/subtitles.py:1563
+msgid "Position"
+msgstr "Pozycja"
+
+#: subtitles/subtitles.py:1564
+msgid "Color"
+msgstr "Kolor"
+
+#: subtitles/subtitles.py:1565
+#, fuzzy
+msgid "Shadow type"
+msgstr "Typ czcionki"
+
+#: subtitles/subtitles.py:1567
+msgid "Shadow X-offset"
+msgstr ""
+
+#: subtitles/subtitles.py:1568
+msgid "Shadow Y-offset"
+msgstr ""
+
+#: subtitles/subtitles.py:1570
+#, fuzzy
+msgid "Shadow size"
+msgstr "Pokaż napisy"
+
+#: subtitles/subtitles.py:1571
+msgid "Shadow color"
+msgstr ""
+
+#: subtitles/subtitles.py:1572
+msgid "Encoding"
+msgstr "Kodowanie"
+
+#: subtitles/subtitles.py:1573
+#, fuzzy
+msgid "Show expert settings"
+msgstr "Pokaż więcie szczegółów"
+
+#: subtitles/subtitles.py:1575
+#, fuzzy
+msgid "Hide delay"
+msgstr "Ukryj odtwarzacz"
+
+#: subtitles/subtitles.py:1576
+msgid "Sync delay"
+msgstr ""
+
+#: subtitles/subtitles.py:1577
+#, fuzzy
+msgid "Player delay"
+msgstr "Odtwarzaj zapis"
+
+#: subtitles/subtitles.py:1578
+#, fuzzy
+msgid "Refresh delay"
+msgstr "Pokaż napisy"
+
+#: subtitles/subtitles.py:1579
+msgid "PTS check delay"
+msgstr ""
+
+#: subtitles/subtitles.py:1681
+msgid "List of Storage Devices"
+msgstr "Lista urządzeń pamięci masowej "
+
+#: subtitles/subtitles.py:1683
+msgid "Parent Directory"
+msgstr "Katalog główny"
+
+#: subtitles/subtitles.py:1727
+#, fuzzy
+msgid "Choose from embedded subtitles"
+msgstr "Wybież napisy"
+
+#: subtitles/subtitles.py:1732
+#, fuzzy
+msgid "Search subtitles"
+msgstr "Pokaż napisy"
+
+#: subtitles/subtitles.py:1778
+msgid "Choose Subtitles"
+msgstr "Wybierz napisy"
+
+#: subtitles/subtitles.py:1874
+msgid "unknown"
+msgstr ""
+
+#: subtitles/subtitles.py:2102
+#, fuzzy
+msgid "Subtitles search"
+msgstr "Ustaw napisy"
+
+#: subtitles/subtitles.py:2107
+#, fuzzy
+msgid "Title:"
+msgstr "Tytuł"
+
+#: subtitles/subtitles.py:2108
+msgid "Size:"
+msgstr ""
+
+#: subtitles/subtitles.py:2119 subtitles/subtitles.py:2123
+msgid "N/A"
+msgstr ""
+
+#: subtitles/subtitles.py:2127
+msgid "Search Expression:"
+msgstr ""
+
+#: subtitles/subtitles.py:2128
+msgid "Preferred languages:"
+msgstr ""
+
+#: subtitles/subtitles.py:2133
+msgid "Update Expression"
+msgstr ""
+
+#: subtitles/subtitles.py:2135
+msgid "Reload"
+msgstr ""
+
+#: subtitles/subtitles.py:2137
+#, fuzzy
+msgid "Settings"
+msgstr "Edycja ustawień"
+
+#: subtitles/subtitles.py:2234
+#, fuzzy
+msgid "loading subtitles list..."
+msgstr "Nie można wykonać napisów"
+
+#: subtitles/subtitles.py:2245
+#, fuzzy
+msgid "No subtitles found :("
+msgstr "Pokaż menu napisów"
+
+#: subtitles/subtitles.py:2246
+msgid "Try update(cut) search expression and try again.."
+msgstr ""
+
+#: subtitles/subtitles.py:2286
+msgid "cannot unpack rar sub-archive, unrar not find, please install it"
+msgstr ""
+
+#: subtitles/subtitles.py:2287
+msgid "opkg install unrar"
+msgstr ""
+
+#: subtitles/subtitles.py:2290
+msgid "unpacking..."
+msgstr ""
+
+#: subtitles/subtitles.py:2300
+msgid "captcha doesn't match, try again..."
+msgstr ""
+
+#: subtitles/subtitles.py:2315
+msgid ""
+"There are more subtitles in unpacked archive\n"
+" please select which one you want to use"
+msgstr ""
+
+#: subtitles/subtitles.py:2330
+#, fuzzy
+msgid "Subtitles will be downloaded in"
+msgstr "Pokaż menu napisów"
+
+#: subtitles/subtitles.py:2330
+msgid "seconds"
+msgstr ""
+
+#: subtitles/subtitles.py:2333
+msgid "Set search expression"
+msgstr ""
+
+#: subtitles/subtitles.py:2409 subtitles/subtitles.py:2410
+#: subtitles/subtitles.py:2411
+msgid "Preferred Language"
+msgstr ""
+
+#: subtitles/subtitles.py:2412
+msgid "Download Path"
+msgstr ""
+
+#: subtitles/subtitles.py:2421
+msgid "enabled"
+msgstr ""
+
+#: subtitles/subtitles.py:2421
+msgid "disabled"
+msgstr ""
+
+#: subtitles/subtitles.py:2531
+#, fuzzy
+msgid "settings"
+msgstr "Edycja ustawień"
+
+#: subtitles/seek.py:117
+#, python-format
+msgid "unsupported archive %s"
+msgstr ""
+
+#: subtitles/seekers/xbmc_subtitles.py:115
+msgid "Username"
+msgstr ""
+
+#: subtitles/seekers/xbmc_subtitles.py:116
+msgid "Password"
+msgstr ""
+
+#~ msgid "encoding"
+#~ msgstr "Kodowanie"
+
+#~ msgid "play from previous playlist entry"
+#~ msgstr "Odtwarzaj poprzedni z playlisty"
+
+#~ msgid "play from next playlist entry"
+#~ msgstr "Odtwarzaj nasępny z playlisty"
+
+#~ msgid "menu"
+#~ msgstr "Menu"
+
+#~ msgid "jump to listbegin"
+#~ msgstr "Idz do początku listy"
+
+#~ msgid "Do you really want to exit?"
+#~ msgstr "Czy napewno chcesz wyjść?"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "Yes"
+#~ msgstr "tak"
+
+#~ msgid "save playlist before exit?"
+#~ msgstr "Zapisać playliste przed wyjściem?"
+
+#~ msgid "PicturePlayer"
+#~ msgstr "Odtwarzacz zdjęć"
+
+#~ msgid "add/remove bookmarks (locationbox)"
+#~ msgstr "Dodaj/usuń zakładkę"
+
+#~ msgid "---------------------- bookmarks -------------------"
+#~ msgstr ">>>zakładki<<<"
+
+#~ msgid "Please select the path..."
+#~ msgstr "Proszę wybrać ścieżkę ... "
+
+#~ msgid "Save Playlist"
+#~ msgstr "Zapisz Playliste"
+
+#~ msgid "Delete failed!, %s"
+#~ msgstr "Błąd usuwania!, %s"
+
+#~ msgid "changing aspect"
+#~ msgstr "Zmiana formatu TV"
+
+#~ msgid "leave movie player..."
+#~ msgstr "wyjdz z odtwarzacza"
+
+#~ msgid "AspectRatioChange"
+#~ msgstr "Zmiana formatu TV"
+
+#~ msgid "No, but restart from begin"
+#~ msgstr "Nie, ale włącz od początku"
+
+#~ msgid "Stop playing this movie?"
+#~ msgstr "Zatrzymać odtwarzanie tego filmu?"
+
+#~ msgid "ask on exit"
+#~ msgstr "Zapytaj przed wyjściem"
+
+#~ msgid "Please select the path for the Startdirectory"
+#~ msgstr "Proszę wybrać ścieżkę do katalogu Start "

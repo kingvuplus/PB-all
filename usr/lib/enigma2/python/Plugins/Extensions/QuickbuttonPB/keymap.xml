@@ -1,0 +1,20 @@
+<!--suppress XmlUnboundNsPrefix -->
+<keymap>
+<map context="QuickbuttonActions">
+	<key id="KEY_SUBTITLE" mapto="subtitle_l" flags="l" />
+	<key id="KEY_TEXT" mapto="text_l" flags="l" />
+	<key id="KEY_HOME" mapto="home_b" flags="b" />      <!-- AV not assigned in infobar-->
+	<key id="KEY_HOME" mapto="home_l" flags="l" />      <!-- AV long-->
+	<key id="KEY_BLUE" mapto="blue_l" flags="l" />
+	<key id="KEY_MUTE" mapto="mute_l" flags="l" />
+	<key id="KEY_TV" mapto="tv_l" flags="l" />
+	<key id="KEY_RADIO" mapto="radio_l" flags="l" />
+
+
+</map>
+</keymap>
+
+<!--
+Vu's HELP changed to INFO (does not work ok yet)
+so we have to use TV and RADIO longs
+-->
